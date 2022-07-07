@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Data Structures and Algorithms, DBMS, Operating System and Computer Networks
 - 📫 How to reach me: __________
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am an ambivert, meaning I love to work in a team/group but I don't mind work alone too.
