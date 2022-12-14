@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS 🕸️
 - 🔭 I’m currently working on Django
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with 
